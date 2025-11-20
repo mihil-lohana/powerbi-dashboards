@@ -10,5 +10,11 @@ This repository contains interactive dashboards for Sales and HR datasets create
 - `datasets/` → CSV files for Sales and HR
 - `instructions/` → Step-by-step instructions to create the dashboards
 
+## Dashboard Screenshots
+
+### HR Dashboard
+![HR](screenshots/hr_dashboard.png)
+
+
 Author: Mihil Lohana  
 GitHub: https://github.com/mihil-lohana
