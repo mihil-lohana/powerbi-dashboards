@@ -1,0 +1,11 @@
+EmployeeID,Name,Department,Gender,Salary
+1,Alice,HR,F,40000
+2,Bob,IT,M,50000
+3,Charlie,IT,M,55000
+4,Diana,Finance,F,48000
+5,Ethan,HR,M,42000
+6,Fiona,Finance,F,51000
+7,George,IT,M,60000
+8,Hannah,HR,F,45000
+9,Ian,Finance,M,47000
+10,Jane,IT,F,53000
