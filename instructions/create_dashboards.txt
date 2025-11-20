@@ -1,0 +1,15 @@
+Power BI Dashboard Creation Instructions
+
+1. Open Power BI Desktop.
+2. Import the CSV files from datasets/ folder.
+3. For the Sales Dashboard:
+   - Use 'Month' on X-axis, 'Revenue' on Y-axis (line chart).
+   - Create bar chart for 'Units' sold per product.
+   - Use a slicer for 'Product' to filter charts interactively.
+4. For the HR Dashboard:
+   - Pie chart for gender distribution per department.
+   - Bar chart showing number of employees in each department.
+   - Card visual for average salary.
+5. Apply filters and labels for clarity.
+6. Save the dashboards as PBIX files and upload them to this repo.
+7. Optionally, take screenshots of the dashboards for the README.
